@@ -19,10 +19,12 @@ Based on the launch date one can determine the months that are more indicative o
 •	May appears to be the most active month to start kickstarters, with 166 starting, and the month were more kickstarters are successful, with 111 successful campaigns.  Although not as good as May, June and July also appear to be active months for kickstarters and the data shows higher success rates during these months as well.
 •	The data shows the month of December as the least active month to start kickstarts for theaters, with 75 initiated and has the fewest successful kickstarters started, with only 37.
 •	The quantity of failed campaigns seems to be relatively consistent month over month without the large undulations as is seen in the successful kickstarter data.
+![Theater_Outcomes_Launch](resources/Theater_Outcomes_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 The Analysis of Outcomes Based on Goals chart is interesting to evaluate.  Except for a couple of data points in the goal range of $35,000 to $45,000 range, both failed and successful percentages tend to follow a straight line fit in opposite direction.  There appears to be a direct connection between the goal amount and whether a project is successful or fails.  At the lower ranges, the percentage of success is higher, and the failure rate is lower (75% vs 25% respectively).  As the goal ranges increase in dollar amounts the success rates fall, and the failure rates increase (17% vs 83% respectively).  There appears to be a cross over point where success and failure rates are at 50% before diverging in opposite directions.  The range where the goal shows 50/50 failure/success rate is between $15000 and $20000. 
+![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Challenges in relationship to the manipulation of the kickstarter dataset was minimum.  Although I was able to apply formulas and lay out the tables appropriately, I couldn’t help but feel there was a better way.  For the sake of time, I decided to push through with one-by-one manual modifications of the formulas until I can learn shortcuts later. 
